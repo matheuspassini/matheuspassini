@@ -14,5 +14,7 @@ My passion is data science, and I am taking several courses to train and practic
 * Machine Learning with Python
 
 - Get in touch
+
 Linkedin: linkedin.com/in/matheus-passini/
+
 E-mail: matheusbedini@yahoo.com.br
