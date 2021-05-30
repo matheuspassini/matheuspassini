@@ -12,6 +12,7 @@ My passion is data science, and I am taking several courses to train and practic
 * Power BI
 * SQL
 * Machine Learning with Python
+* Data Science and Data Engineering
 
 ### Get in touch
 
