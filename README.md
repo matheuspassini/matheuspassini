@@ -8,10 +8,7 @@ My passion is data science, and I am taking several courses to train and practic
 
 ### What I am learning on these days:
 
-* VBA
-* Power BI
-* SQL
-* Machine Learning with Python
+* Java
 * Data Science and Data Engineering
 
 ### Get in touch
