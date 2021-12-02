@@ -8,7 +8,6 @@ My passion is data science, and I am taking several courses to train and practic
 
 ### What I am learning on these days:
 
-* Java
 * Data Science and Data Engineering
 
 ### Get in touch
