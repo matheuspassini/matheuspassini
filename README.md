@@ -3,7 +3,7 @@
 I'm Matheus
 
 I'm brazilian and I'm studying Electrical Engineering at São Paulo State University (UNESP).
-My passion is data science, and I am taking several courses to train and practice data analysis, data processing and machine learning.
+My passion is Data Engineering, and I am taking several courses to train and practice it.
 
 
 ### What I am learning on these days:
