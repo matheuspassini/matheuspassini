@@ -3,7 +3,7 @@
 I'm Matheus
 
 I'm brazilian and I'm studying Electrical Engineering at São Paulo State University (UNESP).
-My passion is Computing and Programming.
+My passion is Computer Science, Data and Programming.
 
 
 
