@@ -27,6 +27,6 @@ My passion is Computer Science, Data and Programming.
 
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=matheuspassini&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspassini&layout=compact&theme=graywhite&hide_border=true" width="313" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspassini&layout=compact&theme=graywhite&hide_border=true" width="440" />
 </div>
 
