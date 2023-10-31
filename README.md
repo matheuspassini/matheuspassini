@@ -3,7 +3,7 @@
 I'm Matheus, a curious Electrical Engineer hailing from Brazil and currently navigating the exciting challenges of Data Engineering and Programming. My passion lies at the crossroads of Electrical Engineering: Computer Science, Data, and Programming.
 
 💡 About Me:
-I find my groove in the blend of technology and creativity. I'm constantly exploring the fascinating possibilities of professional growing. My enthusiasm for groundbreaking solutions keeps me deeply engrossed in the world of Data, with a watchful eye on the ever-evolving landscape of Computer Science.
+I find my groove in the blend of technology and creativity. I'm constantly exploring the fascinating possibilities of professional growth. My enthusiasm for groundbreaking solutions keeps me deeply engrossed in the world of Data, with a watchful eye on the ever-evolving landscape of Computer Science.
 
 🚀 What I Do:
 I'm a perpetual learner and a dedicated coder, hungry for challenges that let me apply my skills in programming, data analysis, and creative problem-solving. I relish the excitement of crafting solutions that are not just functional but also meaningful.
@@ -20,16 +20,6 @@ I'm eager to join forces on thrilling projects, exchange knowledge, and engage i
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-passini/) 
 
-## Technologies
-
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
 
 <br>
 <br>
