@@ -21,12 +21,3 @@ I'm eager to join forces on thrilling projects, exchange knowledge, and engage i
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-passini/) 
 
 
-<br>
-<br>
-
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspassini&layout=compact&theme=graywhite&hide_border=true" width="440" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=matheuspassini&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
-</div>
-
